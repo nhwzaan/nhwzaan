@@ -20,6 +20,7 @@
 - 😄 Fun fact: actually i play games in my free time XD
 
 - :mailbox: How to reach me:  </a> <a href="https://www.facebook.com/xxnhwzaan/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25/> 
+  </a> <a href="https://www.instagram.com/nhwzaan/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pink.svg?&style=for-the-badge&logo=Instagram&logoColor=white" height=25/>
 
 ### :hammer_and_wrench: Languages and Tools ✨
   
