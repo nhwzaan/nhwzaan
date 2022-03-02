@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys, welcome to my channel (´▽`ʃ♡ƪ) 👋
 
 <!--
 **nguyenthinhuvan/nguyenthinhuvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
