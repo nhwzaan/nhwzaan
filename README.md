@@ -11,7 +11,7 @@
 
 - :telescope: I’m currently a Computer Science sophomore at University of Information Technology - Vietnam Nation Univeristy
 
-- :seedling: Learning Computer Vision / AI
+- :seedling: Learning Computer Vision + AI
 
 - 👩‍🎓 Pronouns: She / her
 
