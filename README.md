@@ -1,4 +1,4 @@
-<a href=#><img width="100%" height="auto" src="https://i.imgur.com/wHuyaZx.png" height="175px"/></a>
+<a href=#><img width="40%" height="auto" src="https://i.imgur.com/wHuyaZx.png" height="175px"/></a>
 
 ### Hi guys, welcome to my channel (´▽`ʃ♡ƪ)
 
