@@ -9,7 +9,7 @@
 
 ### :woman_technologist: About me ✨
 
-- :telescope: I’m currently a Computer Science sophomore at University of Information Technology - Vietnam Nation Univeristy
+- :telescope: I’m currently a Computer Science sophomore at University of Information Technology - Vietnam National Univeristy
 
 - :seedling: Learning Computer Vision + AI
 
