@@ -7,23 +7,23 @@
 
 ---
 
-### :woman_technologist: About me ✨
+### :woman_technologist: About me :sparkles:
 
 - :telescope: I’m currently a Computer Science sophomore at University of Information Technology - Vietnam National University
 
 - :seedling: Learning Computer Vision + AI
 
-- 👩‍🎓 Pronouns: She / her
+- :princess: Pronouns: She / her
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- 😄 Fun fact: Actually I play games in my free time XD
+- :laughing: Fun fact: Actually I play games in my free time XD
 
 - :mailbox: How to reach me:  </a> <a href="https://www.facebook.com/xxnhwzaan/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25/> 
   </a> <a href="https://www.instagram.com/nhwzaan/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pink.svg?&style=for-the-badge&logo=Instagram&logoColor=white" height=25/>
    </a>  <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25/>
 
-### :hammer_and_wrench: Languages and Tools ✨
+### :hammer_and_wrench: Languages and Tools :sparkles:
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
@@ -35,7 +35,7 @@
 
 </div>
   
-### :fire: My Stats ✨
+### :fire: My Stats :sparkles:
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyenthinhuvan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
