@@ -9,7 +9,7 @@
 
 ### :woman_technologist: About me :sparkles:
 
-- :telescope: I’m currently a Computer Science junior at [University of Information Technology - Vietnam National University](https://www.uit.edu.vn/)
+- :telescope: I’m currently a Computer Science final-year student at [University of Information Technology - Vietnam National University](https://www.uit.edu.vn/)
 
 - :seedling: Learning Computer Vision + AI
 
